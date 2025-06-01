@@ -121,8 +121,8 @@ MonoBehaviour:
     y: 0
     width: 519.19995
     height: 1371.2
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 126}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 15}
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 1658.3999
     height: 964.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -302,8 +302,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Animation\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 2211.2
-    y: 87.200005
+    x: 2212.2
+    y: 24
     width: 518.19995
     height: 1345.2
   m_SerializedDataModeController:
@@ -414,7 +414,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 1052
+    y: 988.8
     width: 2210.2
     height: 380.39996
   m_SerializedDataModeController:
@@ -458,7 +458,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 4ca90000
     m_LastClickedID: 43340
-    m_ExpandedIDs: 000000004ca9000000ca9a3b
+    m_ExpandedIDs: 00000000eea40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -487,7 +487,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000eea40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -616,7 +616,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 87.200005
+    y: 24
     width: 551.8
     height: 938.8
   m_SerializedDataModeController:
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 88a80000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: daebffff
       m_RenameOverlay:
@@ -681,8 +681,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 552.8
-    y: 87.200005
+    x: 553.8
+    y: 24
     width: 1656.3999
     height: 938.8
   m_SerializedDataModeController:
@@ -1431,7 +1431,7 @@ MonoBehaviour:
       height: 864
     m_MinimalGUI: 1
   m_defaultScale: 0.7789352
-  m_LastWindowPixelSize: {x: 1552.5, y: 867.5}
+  m_LastWindowPixelSize: {x: 1242, y: 694}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
